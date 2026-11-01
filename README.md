@@ -1,13 +1,10 @@
-# Mobile App Development - Task 1
+Mobile App Development - Task 1
 
-| App Folder | Exercise Name |
+MyApplication1: Birthday Card
+MyApplication2: Task Done
+MyApplication3: Quadrant
+MyApplication4: Article
+MyApplication5: Business Card
 
-| **MyApplication1** | Birthday Card |
-| **MyApplication2** | Task Done |
-| **MyApplication3** | Quadrant |
-| **MyApplication4** | Article |
-| **MyApplication5** | Business Card |
-
-
-**Developer:** Waad Ahmad  
-**University:** Al-Aqsa University
+Developer: Waad Ahmad
+University: Al-Aqsa University
